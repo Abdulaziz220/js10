@@ -47,3 +47,24 @@ form button:hover {
     background: white;
     color: #114855;
 }
+
+.todo {
+    display: flex;
+    list-style-type: none;
+    background-color: black;
+    border: 5px solid black;
+    border-radius: 5px;
+    /* height: 40px; */
+    width: 200px;
+    margin-top: 10px;
+}
+.chesk-btn{
+    margin-left: 20px;
+    background-color: red;
+}
+
+.trash-btn{
+    margin-left: 20px;
+    background-color: red;
+}
+
